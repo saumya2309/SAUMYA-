@@ -5,9 +5,15 @@ DESKTOP
 <br>1. **COMPUTATION**
 
 CPU- CENTRAL PROCESSING UNIT 
+<br>
 GPU-GRAPHIC PROCESSING UNIT
+<br>
 DPU-DATA PROCESSING UNIT
+<br>
+
 TPU- TENSOR PROCESSING UNIT
+<br>
+
 
 **.SOC (SYSTEM ON A CHIP)**
 It is an integrated circuit that incorporates a majority of components present on a computer.
