@@ -1,8 +1,8 @@
-# SAUMYA-
-**OOP KEYWORDS
-<br>**
+#**OOP KEYWORDS**
+<br>
 DESKTOP
-<br>1. **COMPUTATION**
+<br>
+#1. **COMPUTATION**
 
 CPU- CENTRAL PROCESSING UNIT 
 <br>
@@ -10,18 +10,17 @@ GPU-GRAPHIC PROCESSING UNIT
 <br>
 DPU-DATA PROCESSING UNIT
 <br>
-
 TPU- TENSOR PROCESSING UNIT
 <br>
 
 
-**.SOC (SYSTEM ON A CHIP)**
+#**.SOC (SYSTEM ON A CHIP)**
 <br>
 
 It is an integrated circuit that incorporates a majority of components present on a computer.
 <br>
 
-**2.STORAGE**
+#**2.STORAGE**
 <br>
 
 (I) PRIMARY STORAGE- It is volatile.
@@ -29,7 +28,7 @@ It is an integrated circuit that incorporates a majority of components present o
 (II) SECONDARY STORAGE-It is non volatile.
 <br>
 
-**3. NETWORK**
+#**3. NETWORK**
 <br>
 (I) LOCAL AREA NETWORK(LAN)
 <br>
