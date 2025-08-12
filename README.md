@@ -16,20 +16,37 @@ TPU- TENSOR PROCESSING UNIT
 
 
 **.SOC (SYSTEM ON A CHIP)**
+<br>
+
 It is an integrated circuit that incorporates a majority of components present on a computer.
+<br>
 
 **2.STORAGE**
+<br>
+
 (I) PRIMARY STORAGE- It is volatile.
+<br>
 (II) SECONDARY STORAGE-It is non volatile.
+<br>
 
 **3. NETWORK**
+<br>
 (I) LOCAL AREA NETWORK(LAN)
+<br>
 (II) WIDE AREA NETWORK(WAN)
+<br>
+
 
 **OPERATING SYSTEM**
+<br>
+
 WINDOWS
+<br>
 MACos 
+<br>
 LINUX
+<br>
+
 
 **NIC**-: NETWORK INTERFACE CARD OR NETWROK INTERFACE CONTROLLER
 
@@ -38,7 +55,13 @@ The source code of open source software is public whereas the the source code in
 
 **CLOUD COMPUTING**
 It is the delivery of computing services -including servers , databases and intelligence.
+<br>
 
 **VPN**(VIRTUAL PRIVATE NETWORK)
+<br>
+
 **ISP**(INTERNET SPACE PROVIDER)
+<br>
+
 **DNS**(DOMAIN NAME SYSTEM)
+<br>
